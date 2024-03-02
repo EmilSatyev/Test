@@ -1,2 +1,4 @@
 first commit
 first commit branch-2
+first commit in branch
+second commit in branch
